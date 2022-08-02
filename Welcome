@@ -1,0 +1,411 @@
+
+Programming Language
+As we know, to communicate with a person, we need a specific language, similarly to communicate with computers, programmers also need a language is called Programming language.
+
+Before learning the programming language, let's understand what is language?
+
+What is Language?
+Language is a mode of communication that is used to share ideas, opinions with each other. For example, if we want to teach someone, we need a language that is understandable by both communicators.
+
+What is a Programming Language?
+A programming language is a computer language that is used by programmers (developers) to communicate with computers. It is a set of instructions written in any specific language ( C, C++, Java, Python) to perform a specific task.
+
+A programming language is mainly used to develop desktop applications, websites, and mobile applications.
+
+Types of programming language
+1. Low-level programming language
+Low-level language is machine-dependent (0s and 1s) programming language. The processor runs low- level programs directly without the need of a compiler or interpreter, so the programs written in low-level language can be run very fast.
+
+Low-level language is further divided into two parts -
+
+i. Machine Language
+
+Machine language is a type of low-level programming language. It is also called as machine code or object code. Machine language is easier to read because it is normally displayed in binary or hexadecimal form (base 16) form. It does not require a translator to convert the programs because computers directly understand the machine language programs.
+
+The advantage of machine language is that it helps the programmer to execute the programs faster than the high-level programming language.
+
+ii. Assembly Language
+
+Assembly language (ASM) is also a type of low-level programming language that is designed for specific processors. It represents the set of instructions in a symbolic and human-understandable form. It uses an assembler to convert the assembly language to machine language.
+
+The advantage of assembly language is that it requires less memory and less execution time to execute a program.
+
+2. High-level programming language
+High-level programming language (HLL) is designed for developing user-friendly software programs and websites. This programming language requires a compiler or interpreter to translate the program into machine language (execute the program).
+
+The main advantage of a high-level language is that it is easy to read, write, and maintain.
+
+High-level programming language includes Python, Java, JavaScript, PHP, C#, C++, Objective C, Cobol, Perl, Pascal, LISP, FORTRAN, and Swift programming language.
+
+A high-level language is further divided into three parts -
+
+i. Procedural Oriented programming language
+
+Procedural Oriented Programming (POP) language is derived from structured programming and based upon the procedure call concept. It divides a program into small procedures called routines or functions.
+
+Procedural Oriented programming language is used by a software programmer to create a program that can be accomplished by using a programming editor like IDE, Adobe Dreamweaver, or Microsoft Visual Studio.
+
+The advantage of POP language is that it helps programmers to easily track the program flow and code can be reused in different parts of the program.
+
+The advantage of POP language is that it helps programmers to easily track the program flow and code can be reused in different parts of the program.
+Example: C, FORTRAN, Basic, Pascal, etc.
+
+ii. Object-Oriented Programming language
+
+Object-Oriented Programming (OOP) language is based upon the objects. In this programming language, programs are divided into small parts called objects. It is used to implement real-world entities like inheritance, polymorphism, abstraction, etc in the program to makes the program resusable, efficient, and easy-to-use.
+
+The main advantage of object-oriented programming is that OOP is faster and easier to execute, maintain, modify, as well as debug.
+
+Note: Object-Oriented Programming language follows a bottom-up approach.
+Example: C++, Java, Python, C#, etc.
+
+iii. Natural language
+
+Natural language is a part of human languages such as English, Russian, German, and Japanese. It is used by machines to understand, manipulate, and interpret human's language. It is used by developers to perform tasks such as translation, automatic summarization, Named Entity Recognition (NER), relationship extraction, and topic segmentation.
+
+The main advantage of natural language is that it helps users to ask questions in any subject and directly respond within seconds.
+
+3. Middle-level programming language
+Middle-level programming language lies between the low-level programming language and high-level programming language. It is also known as the intermediate programming language and pseudo-language.
+
+A middle-level programming language's advantages are that it supports the features of high-level programming, it is a user-friendly language, and closely related to machine language and human language.
+
+Example: C, C++, language
+
+Most commonly used Programming Language
+As we all know, the programming language makes our life simpler. Currently, all sectors (like education, hospitals, banks, automobiles, and more ) completely depend upon the programming language.
+
+There are dozens of programming languages used by the industries. Some most widely used programming languages are given below -
+
+1. Python
+Programming Language
+Python is one of the most widely used user-friendly programming languages. It is an open-source and easy to learn programming language developed in the 1990s. It is mostly used in Machine learning, Artificial intelligence, Big Data, GUI based desktop applications, and Robotics.
+
+Advantages
+
+Python is easy to read, easy to understand, and easy to write.
+It integrates with other programming languages like C, C++, and Java.
+Python executes code line-by-line, so it is easy for the programmer to find the error that occurred in the code.
+Python is platform-independent means you can write code once and run it anywhere.
+Disadvantages
+
+Python is not suitable for developing mobile applications and games.
+Python works with the interpreter. That's why it is slower than other programming languages like C and C++.
+2. Java
+Programming Language
+Java is a simple, secure, platform-independent, reliable, architecture-neutral high-level programming language developed by Sun Microsystems in 1995. Now, Java is owned by Oracle. It is mainly used to develop bank, retail, information technology, android, big data, research community, web, and desktop applications.
+
+Advantages
+
+Java is easy to write, compile, learn, and debug as compared to other programming languages.
+It provides an ability to run the same program on different platforms.
+It is a highly secured programming language because in java, there is no concept of explicit pointers.
+It is capable of performing multiple tasks at the same time.
+Disadvantages
+
+Java consumes more memory and slower than other programming languages like C or C++.
+It does not provide a backup facility.
+3. C
+Programming Language
+C is a popular, simple, and flexible general-purpose computer programming language. Dennis M Ritchie develops it in 1972 at AT&T. It is a combination of both low-level programming language as well as a high-level programming language. It is used to design applications like Text Editors, Compilers, Network devices, and many more.
+
+Advantages
+
+C language is easy to learn.
+It is fast, efficient, portable, easy to extend, powerful, and flexible programming language.
+It is used to perform complex calculations and operations such as MATLAB.
+It provides dynamic memory allocation to allocate memory at the run time.
+Disadvantages
+
+In the C programming language, it is very difficult to find the errors.
+C does not support the concepts of constructors, destructors, abstraction, polymorphism, encapsulation, and namespace like OOPs.
+4. C++
+Programming Language
+C++ is one of the thousands of programming languages that we use to develop software. C++ programming language is developed by Bjarne Stroustrup in 1980. It is similar to the C programming language but also includes some additional features such as exception handling, object-oriented programming, type checking, etc.
+
+Advantages
+
+C++ is a simple and portable structured programming language.
+It supports OOPs features such as Abstraction, Inheritance, Encapsulation.
+It provides high-level abstraction and useful for a low-level programming language, and more efficient for general-purpose.
+C++ is more compatible with the C language.
+Disadvantages
+
+C++ programming language is not secured as compared to other programming languages like Java or Python.
+C++ can not support garbage collection.
+It is difficult to debug large as well as complex web applications.
+5. C#
+Programming Language
+C# (pronounced as C sharp) is a modern, general-purpose, and object-oriented programming language used with XML based Web services on the .NET platform. It is mainly designed to improve productivity in web applications. It is easier to learn for those users who have sufficient knowledge of common programming languages like C, C++, or Java.
+
+Advantages
+
+C# is a modern, type-safe, easy, fast, and open-source programming language that is easily integrated with Windows.
+The maintenance of C# (C sharp) is lower than the C++ programming language.
+C# is a pure object-oriented programming language.
+C# includes a strong memory backup facility. That's why it avoids the problem of memory leakage.
+Disadvantages
+
+C# is less flexible because it is completely based on Microsoft .Net framework.
+In C#, it is difficult to write, understand, debug, and maintain multithreaded applications.
+6. JavaScript
+Programming Language
+JavaScript is a type of scripting language that is used on both client-side as well as a server-side. It is developed in the 1990s for the Netscape Navigator web browser. It allows programmers to implement complex features to make web pages alive. It helps programmers to create dynamic websites, servers, mobile applications, animated graphics, games, and more.
+
+Advantage
+
+JavaScript helps us to add behavior and interactivity on the web page.
+It can be used to decrease the loading time from the server.
+It has the ability to create attractive, dynamic websites, and rich interfaces.
+JavaScript is a simple, versatile, and lightweight programming language.
+JavaScript and its syntax are easy to understand.
+Disadvantage
+
+JavaScript is completely based on the browser.
+It does not support multiple inheritance.
+It is less secure compared to other programming languages.
+7. R
+Programming Language
+Currently, R programming is one of the popular programming languages that is used in data analytics, scientific research, machine learning algorithms, and statistical computing. It is developed in 1993 by Ross Ihaka and Robert Gentleman. It helps marketers and data scientists to easily analyze, present, and visualize data.
+
+Advantages
+
+R programming provides extensive support for Data Wrangling.
+It provides an easy-to-use interface.
+It runs on any platform like Windows, Linux, and Mac.
+It is an open-source and platform-independent programming language.
+Disadvantages
+
+R programming does not support 3D graphics.
+It is slower than other programming languages.
+8. PHP
+Programming Language
+PHP stands for Hypertext Preprocessor. It is an open-source, powerful server-side scripting language mainly used to create static as well as dynamic websites. It is developed by Rasmus Laird in 1994. Inside the php, we can also write HTML, CSS, and JavaScript code. To save php file, file extension .php is used.
+
+Advantages
+
+PHP is a more secure and easy-to-use programming language.
+It supports powerful online libraries.
+It can be run on a variety of operating systems such as Windows, Linux, and Mac.
+It provides excellent compatibility with cloud services.
+Disadvantages
+
+PHP is not capable of handling a large number of applications and not suitable for large applications.
+It is quite difficult to maintain.
+9. Go
+Programming Language
+Go or Golang is an open-source programming language. It is used to build simple, reliable, and efficient software. It is developed by Robert Griesemer, Rob Pike, and Ken Thompson in 2007.
+
+Advantages
+
+Go language is easy-to-learn and use.
+It comes with the in-built testing tools.
+Go is a fast programming language.
+Disadvantages
+
+Go language does not support generics.
+It does not support error handling.
+It supports a lack of frameworks.
+10. Ruby
+Programming Language
+Ruby is an open-source, general-purpose, and pure object-oriented programming language released in 1993. It is used in front-end and back-end web development. It is mainly designed to write CGI (Common Gateway Interface) scripts.
+
+Advantages
+
+Ruby supports various GUI (Graphical User Interface) tools like GTK and OpenGL.
+It is used to develop both internet as well as intranet applications.
+The code written in Ruby is small and contains less number of lines.
+Disadvantages
+
+Ruby is slower than other programming languages.
+It is very difficult for programmers to debug the code written in Ruby.
+Next TopicWhat is social engineering
+
+
+← PrevNext →
+
+Youtube For Videos Join Our Youtube Channel: Join Now
+Feedback
+Send your Feedback to feedback@javatpoint.com
+Help Others, Please Share
+facebook twitter pinterest
+
+ 
+
+Learn Latest Tutorials
+Splunk tutorial
+Splunk
+
+SPSS tutorial
+SPSS
+
+Swagger tutorial
+Swagger
+
+T-SQL tutorial
+Transact-SQL
+
+Tumblr tutorial
+Tumblr
+
+React tutorial
+ReactJS
+
+Regex tutorial
+Regex
+
+Reinforcement learning tutorial
+Reinforcement Learning
+
+R Programming tutorial
+R Programming
+
+RxJS tutorial
+RxJS
+
+React Native tutorial
+React Native
+
+Python Design Patterns
+Python Design Patterns
+
+Python Pillow tutorial
+Python Pillow
+
+Python Turtle tutorial
+Python Turtle
+
+Keras tutorial
+Keras
+
+
+Preparation
+Aptitude
+Aptitude
+
+Logical Reasoning
+Reasoning
+
+Verbal Ability
+Verbal Ability
+
+Interview Questions
+Interview Questions
+
+Company Interview Questions
+Company Questions
+
+
+Trending Technologies
+Artificial Intelligence Tutorial
+Artificial Intelligence
+
+AWS Tutorial
+AWS
+
+Selenium tutorial
+Selenium
+
+Cloud Computing tutorial
+Cloud Computing
+
+Hadoop tutorial
+Hadoop
+
+ReactJS Tutorial
+ReactJS
+
+Data Science Tutorial
+Data Science
+
+Angular 7 Tutorial
+Angular 7
+
+Blockchain Tutorial
+Blockchain
+
+Git Tutorial
+Git
+
+Machine Learning Tutorial
+Machine Learning
+
+DevOps Tutorial
+DevOps
+
+
+B.Tech / MCA
+DBMS tutorial
+DBMS
+
+Data Structures tutorial
+Data Structures
+
+DAA tutorial
+DAA
+
+Operating System tutorial
+Operating System
+
+Computer Network tutorial
+Computer Network
+
+Compiler Design tutorial
+Compiler Design
+
+Computer Organization and Architecture
+Computer Organization
+
+Discrete Mathematics Tutorial
+Discrete Mathematics
+
+Ethical Hacking Tutorial
+Ethical Hacking
+
+Computer Graphics Tutorial
+Computer Graphics
+
+Software Engineering Tutorial
+Software Engineering
+
+html tutorial
+Web Technology
+
+Cyber Security tutorial
+Cyber Security
+
+Automata Tutorial
+Automata
+
+C Language tutorial
+C Programming
+
+C++ tutorial
+C++
+
+Java tutorial
+Java
+
+.Net Framework tutorial
+.Net
+
+Python tutorial
+Python
+
+List of Programs
+Programs
+
+Control Systems tutorial
+Control System
+
+Data Mining Tutorial
+Data Mining
+
+Data Warehouse Tutorial
+Data Warehouse
+
+
+
+
+
+
